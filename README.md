@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Backend**
 
-- 📫 How to reach me **I will contact you myself**
+- 📫 How to reach me : **I will contact you myself**
 
-- ⚡ Fun fact **Stop coding PHP (let it end with our generation)**
+- ⚡ Fun fact : **Stop coding PHP (let it end with our generation)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
