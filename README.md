@@ -14,10 +14,6 @@
 
 - ⚡ Fun fact : **Stop coding PHP (let it end with our generation)**
 
-<h3 align="left>"🧑🏻‍💻  code 🍗  eat  🛌  sleep
-📚  learn 🏋🏻‍♀️ gym 🏊🏻‍♂️  swim
-           🎸  music  🎬  movie  🔁  repeat</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
