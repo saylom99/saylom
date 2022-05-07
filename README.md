@@ -1,9 +1,6 @@
 [![MasterHead](https://media4.giphy.com/media/l0HlGmv4WqldO9c5y/giphy.gif)](https://)
 <h1 align="center">Hi 🧑🏻‍💻, I'm Wind</h1>
 <h3 align="center">A passionate backend developer from pluto</h3>
-<h3 align="center>"🧑🏻‍💻  code 🍗  eat  🛌  sleep
-📚  learn 🏋🏻‍♀️ gym 🏊🏻‍♂️  swim
-           🎸  music  🎬  movie  🔁  repeat</h3>
 
 <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/1792477/screenshots/6816387/ezgif.com-resize__3_.gif">
 
@@ -16,6 +13,10 @@
 - 📫 How to reach me : **I will contact you myself**
 
 - ⚡ Fun fact : **Stop coding PHP (let it end with our generation)**
+
+<h3 align="left>"🧑🏻‍💻  code 🍗  eat  🛌  sleep
+📚  learn 🏋🏻‍♀️ gym 🏊🏻‍♂️  swim
+           🎸  music  🎬  movie  🔁  repeat</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
