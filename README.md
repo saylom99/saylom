@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/1792477/screenshots/6816387/ezgif.com-resize__3_.gif">
 
-- 🌱 I’m currently learning **Golang,Rust,Phyton,Spring,k8s,Elastic**
+- 🌱 I’m currently learning **Golang,Rust,Js,Phyton,Spring,k8s,Elastic**
 
 - 👯 I’m looking to collaborate on **Microservice**
 
