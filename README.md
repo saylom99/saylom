@@ -12,7 +12,7 @@
 
 - 📫 How to reach me : **-**
 
-- ⚡ Fun fact : **Stop coding PHP (let it end with our generation)**
+- ⚡ Fun fact : ** Stop writing PHP, let it end with our generation **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
