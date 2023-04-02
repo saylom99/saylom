@@ -12,7 +12,7 @@
 
 - 📫 How to reach me : **-**
 
-- ⚡ Fun fact : ** write code in a dream **
+- ⚡ Fun fact : ** born to code forced to work **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
