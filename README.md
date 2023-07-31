@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/1792477/screenshots/6816387/ezgif.com-resize__3_.gif">
 
-- 🌱 I’m currently learning **Quarkus,Spring boot,Spring Webflux,Golang,JS,TS,Python,React,Vue,ELK,Docker,K8s,AWS**
+- 🌱 I’m currently learning **Quarkus,Spring boot,Spring Webflux,Java,Kotlin,Golang,JS,TS,Python,React,Vue,ELK,Docker,K8s,AWS**
 
 - 👯 I’m looking to collaborate on **Microservice**
 
