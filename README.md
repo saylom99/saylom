@@ -6,11 +6,12 @@
 
 - 🌱 I’m currently learning **Quarkus,Spring boot,Spring Webflux,Java,Kotlin,Golang,JS,TS,Python,React,Vue,ELK,Docker,K8s,AWS**
 
-- 👯 I’m looking to collaborate on **Microservice**
+<!-- 👯 I’m looking to collaborate on Microservice -->
 
-- 💬 Ask me about **Backend**
+<!-- 💬 Ask me about Backend -->
 
-- 📫 How to reach me : **-**
+<!-- 📫 How to reach me: - -->
+
 
 - ⚡ Fun fact : ** born to code forced to work **
 
